@@ -1,4 +1,5 @@
 import { useState } from 'react';
+
 import { FaTrashAlt } from 'react-icons/fa'
 
 const Content = () => {
@@ -16,7 +17,7 @@ const Content = () => {
       {
         id: 3,
         checked: false,
-        item: "Burger Buns"
+  
       }
     ]);
     
@@ -37,7 +38,8 @@ const Content = () => {
               </li>
             ))}
           </ul>
-            
+          
+
         </main>
     )
   }
