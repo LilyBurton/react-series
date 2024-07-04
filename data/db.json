@@ -1,19 +1,14 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": true,
-            "item": "Ice Cream"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "Cheese"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Chocolate"
-        }
-    ]
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Ice Cream"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Cheese"
+    }
+  ]
 }
